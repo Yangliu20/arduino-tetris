@@ -20,7 +20,7 @@ The project realizes almost all the fundamental rules of the traditional _Tetris
 
 1. Complete the circuit. 
 
-   <img src="https://github.com/Yangliu20/arduino-tetris/blob/main/docs/images/electronics.jpg" alt="circuit" style="zoom:50%;" />
+   <img src="https://github.com/Yangliu20/arduino-tetris/blob/main/docs/images/electronics.jpg" alt="circuit" width="300" height="200" />
 
 1. Change the codes of controlling signal to the codes of your remote control. 
 
