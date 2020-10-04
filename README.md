@@ -4,7 +4,7 @@ This project builds a **one-player [_Tetris_](https://en.wikipedia.org/wiki/Tetr
 
 The project realizes almost all the fundamental rules of the traditional _Tetris_ game. The player can control the falling pieces to move left, move right or rotate. Thanks to infrared receiver, the controlling signal is quite sensitive even from a large distance. 
 
-![]
+![tetris gif](https://github.com/Yangliu20/arduino-tetris/blob/main/docs/images/tetris_gif.gif)
 
 ## Usage
 
