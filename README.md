@@ -2,7 +2,7 @@
 
 This project builds a **one-player [_Tetris_](https://en.wikipedia.org/wiki/Tetris) game on Arduino**, where a **8*8 LED matrix** is used as the monitor and an **infrared sensor** as the signal receiver. 
 
-This project realizes almost all the fundamental rules of the traditional _Tetris_ game. The player can control the falling pieces to move left, move right or rotate. Thanks to infrared receiver, the controlling signal is quite sensitive even from a large distance. 
+The project realizes almost all the fundamental rules of the traditional _Tetris_ game. The player can control the falling pieces to move left, move right or rotate. Thanks to infrared receiver, the controlling signal is quite sensitive even from a large distance. 
 
 ![]
 
